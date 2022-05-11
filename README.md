@@ -1,10 +1,10 @@
-##Windows only.
+## Windows only.
 
-###Example usage in src/main.rs.
+### Example usage in src/main.rs.
 Uses a slightly modified version of inputbot:
 https://github.com/obv-mikhail/InputBot
 
-##What it does
+## What it does
 If you initialize a hotkey with exactly 1 keyboard key:
 event will return true once the key is released, so 1 keypress returns exactly 1 true value.
 
