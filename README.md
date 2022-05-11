@@ -3,7 +3,7 @@
 ### Example usage in src/main.rs.
 Uses a slightly modified version of inputbot:
 https://github.com/obv-mikhail/InputBot
-(added function is_down unter iputbot/src/windows/mod.rs)
+(added function is_down() under iputbot/src/windows/mod.rs)
 
 ## What it does
 If you initialize a hotkey with exactly 1 keyboard key:
